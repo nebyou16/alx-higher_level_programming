@@ -8,3 +8,7 @@ def add(a, b):
         The return value. a + b
     """
     return (a + b)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 96b768bfdec1c700b431ed01245443064e60230e
